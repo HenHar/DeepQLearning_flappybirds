@@ -1,5 +1,5 @@
 # Using Deep-Q-Learning for playing Flappy Birds
-![](https://github.com/HenHar/DeepQLearning_flappybirds/images/gameplay.gif)
+![](https://github.com/HenHar/DeepQLearning_flappybirds/blob/main/images/gameplay.gif)
 
 # Disclaimer
 This project is based on the following repo:
